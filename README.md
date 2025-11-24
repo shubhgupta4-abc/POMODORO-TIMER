@@ -22,7 +22,4 @@ The Pomodoro Timer follow these steps:
 2. Run the Python script from the command line.
    '''python pomodoro_timer.py'''
 
-## Author
-
-[MeuHubPython](https://github.com/MeuHubPython)
 
